@@ -4,7 +4,7 @@
 
 This is a personal portfolio and resume website hosted on GitHub Pages. It is based on the [Start Bootstrap - Resume](https://github.com/BlackrockDigital/startbootstrap-resume) theme. The project uses **Bootstrap 4** for styling and layout, **Gulp** for the build process, and **Sass** for CSS pre-processing.
 
-The content in `index.html` showcases a professional profile including sections for About, Education, Publications, Experience, Projects, Skills, Awards, and Interests.
+The content in `index.html` showcases a professional profile including sections for About, Education, Experience, Projects, Skills, and Interests.
 
 ## Tech Stack
 

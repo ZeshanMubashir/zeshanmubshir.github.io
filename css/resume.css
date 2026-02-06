@@ -1,11 +1,11 @@
 /*!
  * Start Bootstrap - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2026 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
 body {
-  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   padding-top: 54px;
   color: #868e96;
 }
@@ -16,14 +16,13 @@ body {
     padding-left: 17rem;
   }
 }
-
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -50,7 +49,7 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;
 }
 
@@ -66,11 +65,9 @@ p.lead {
   line-height: 3.5rem;
   margin-right: 1rem;
 }
-
 .social-icons a:last-child {
   margin-right: 0;
 }
-
 .social-icons a:hover {
   background-color: #BD5D38;
 }
@@ -78,7 +75,6 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
-
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
@@ -88,9 +84,8 @@ p.lead {
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 }
-
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: rgb(211.9142857143, 138.0530612245, 109.5857142857);
 }
 
 @media (min-width: 992px) {
@@ -148,13 +143,11 @@ p.lead {
     display: block;
   }
 }
-
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
 }
-
 section.resume-section .resume-item .resume-date {
   min-width: none;
 }
@@ -167,14 +160,12 @@ section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
 }
-
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
 }
-
 .bg-primary {
   background-color: #BD5D38 !important;
 }
@@ -186,7 +177,6 @@ section.resume-section .resume-item .resume-date {
 a {
   color: #BD5D38;
 }
-
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: rgb(129.9857142857, 63.9612244898, 38.5142857143);
 }
